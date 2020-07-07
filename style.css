@@ -1,6 +1,19 @@
-.btn-green{
+.container{
+    margin-bottom: 60px;
+}
+.btn-sign-in{
     border-radius: 20px;
     background-color:#009933;
     color:white;
     padding: 2px 15px;
+}
+.text-highlight-green{
+    color:#009933;
+}
+.bg-light-green{
+background-color: #e3f8e9;
+}
+.text-orange{
+    color:orange;
+    font-weight: 500;
 }
